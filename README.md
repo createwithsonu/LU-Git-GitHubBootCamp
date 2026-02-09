@@ -13,17 +13,6 @@ A clean, responsive signup and signin system with client-side validation using H
 - **Password visibility toggle** for better UX
 - **Demo accounts** for quick testing
 
-## File Structure
-
-```
-project-folder/
-├── signup.html          # Sign up page
-├── signin.html          # Sign in page
-├── style.css            # Common styles for both pages
-├── signup.js            # JavaScript for sign up page
-└── signin.js            # JavaScript for sign in page
-```
-
 ## How to Use
 
 1. **Clone or download** the project files to your computer
